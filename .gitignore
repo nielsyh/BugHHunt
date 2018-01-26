@@ -1,0 +1,10 @@
+.cabal-sandbox/
+.idea/
+.stack-work/
+dist/
+out/
+*.iml
+*.save0
+*.save1
+*.save*
+cabal.sandbox.config
